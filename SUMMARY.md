@@ -8,9 +8,11 @@
 * [Objects](kubernetes-1/introduction/README.md)
   * [Service](kubernetes-1/introduction/service-account.md)
   * [Pods](kubernetes-1/introduction/pods.md)
+* [etcd](kubernetes-1/etcd.md)
 * [Controllers](kubernetes-1/controllers/README.md)
   * [Replica sets](kubernetes-1/controllers/replica-sets.md)
   * [Replication Controller](kubernetes-1/controllers/replication-controller.md)
+* [Data Encryption Config](kubernetes-1/data-encryption-config.md)
 
 ## Language
 
