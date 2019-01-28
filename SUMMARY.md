@@ -9,6 +9,7 @@
   * [Service](kubernetes-1/introduction/service-account.md)
   * [Pods](kubernetes-1/introduction/pods.md)
 * [etcd](kubernetes-1/etcd.md)
+* [Namespaces](kubernetes-1/namespaces.md)
 * [Controllers](kubernetes-1/controllers/README.md)
   * [Replica sets](kubernetes-1/controllers/replica-sets.md)
   * [Replication Controller](kubernetes-1/controllers/replication-controller.md)
