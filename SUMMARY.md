@@ -15,6 +15,7 @@
 * [Deployments](kubernetes-1/deployments.md)
 * [Namespaces](kubernetes-1/namespaces.md)
 * [Data Encryption Config](kubernetes-1/data-encryption-config.md)
+* [Control Plane](kubernetes-1/control-plane.md)
 
 ## Language
 
