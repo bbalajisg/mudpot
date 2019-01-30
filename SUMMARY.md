@@ -17,6 +17,7 @@
 * [Security](kubernetes-1/security.md)
 * [Control Plane](kubernetes-1/control-plane.md)
 * [Data Encryption Config](kubernetes-1/data-encryption-config.md)
+* [RBAC](kubernetes-1/rbac.md)
 * [Tips and Tricks](kubernetes-1/tips-and-tricks.md)
 
 ## Language
