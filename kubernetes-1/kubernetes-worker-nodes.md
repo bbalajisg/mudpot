@@ -4,7 +4,7 @@ description: >-
   container application managed by kubernetes.
 ---
 
-# Kubernetes Worker Nodes
+# Worker Nodes
 
 Has the services necessary to run application containers and be managed from the master systems.
 
