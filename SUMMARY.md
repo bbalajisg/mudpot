@@ -18,6 +18,7 @@
 * [Control Plane](kubernetes-1/control-plane.md)
 * [Data Encryption Config](kubernetes-1/data-encryption-config.md)
 * [RBAC](kubernetes-1/rbac.md)
+* [Kube API Frontend Load Balancer](kubernetes-1/kube-api-frontend-load-balancer.md)
 * [Tips and Tricks](kubernetes-1/tips-and-tricks.md)
 
 ## Language
