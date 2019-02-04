@@ -21,6 +21,7 @@
 * [Kube API Frontend Load Balancer](kubernetes-1/kube-api-frontend-load-balancer.md)
 * [Worker Nodes](kubernetes-1/kubernetes-worker-nodes.md)
 * [Networking Model](kubernetes-1/networking-model.md)
+* [Troubleshoot Clusters](kubernetes-1/troubleshoot-clusters.md)
 * [Tips and Tricks](kubernetes-1/tips-and-tricks.md)
 
 ## Language
