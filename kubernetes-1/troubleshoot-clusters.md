@@ -22,5 +22,10 @@ And verify that all of the nodes you expect to see are present and that they are
 devuser@kuberworker1:~$ view /var/log/syslog
 ```
 
-![](../.gitbook/assets/screenshot-2019-02-04-at-7.42.28-pm.png)
+![Need to turn of the swap](../.gitbook/assets/screenshot-2019-02-04-at-7.42.28-pm.png)
+
+### Solution
+
+1. remove any **swap** entry from `/etc/fstab`
+2. `reboot` the system
 
