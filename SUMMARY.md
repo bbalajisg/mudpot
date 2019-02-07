@@ -5,6 +5,7 @@
 ## Kubernetes
 
 * [Overview](kubernetes-1/overview.md)
+* [Nodes](kubernetes-1/nodes.md)
 * [Objects](kubernetes-1/introduction/README.md)
   * [Service](kubernetes-1/introduction/service-account.md)
   * [Pods](kubernetes-1/introduction/pods.md)
