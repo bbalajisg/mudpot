@@ -53,3 +53,7 @@
 
 * [DevOps](interview-questions/devops.md)
 
+## Notes
+
+* [Leaning Area](notes/leaning-area.md)
+
