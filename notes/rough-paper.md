@@ -1,0 +1,16 @@
+# Rough Paper
+
+{% embed url="https://play.fresco.me/course/175/progress/topic/515/content/3142/quiz" %}
+
+
+
+Creating initial project "myproject" ... Server Information ... OpenShift server started.
+
+The server is accessible via web console at: [https://192.168.99.100:8443/console](https://192.168.99.100:8443/console)
+
+You are logged in as: User: developer Password: 
+
+To login as administrator: oc login -u system:admin
+
+-- Exporting of OpenShift images is occuring in background process with pid 26023.
+
