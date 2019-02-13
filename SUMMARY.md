@@ -51,12 +51,22 @@
   * [Security](container/docker/security.md)
 * [Containerd](container/containerd.md)
 
+## Openshift
+
+* [Overview](openshift/overview.md)
+
 ## Interview Questions
 
 * [DevOps](interview-questions/devops.md)
 
+## script
+
+* [Shell](scripts/shell.md)
+* [Python](scripts/python.md)
+* [Groovy](scripts/groovy.md)
+
 ## Notes
 
 * [Leaning Area](notes/leaning-area.md)
-* [Rough Paper](notes/rough-paper.md)
+* [Rough Sheet](notes/rough-paper.md)
 
