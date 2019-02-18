@@ -27,6 +27,7 @@
 * [Troubleshooting](kubernetes-1/troubleshooting/README.md)
   * [Cluster](kubernetes-1/troubleshooting/cluster/README.md)
     * [Unable To List My Cluster](kubernetes-1/troubleshooting/cluster/troubleshoot-clusters.md)
+* [Useful Links](kubernetes-1/useful-links.md)
 * [Tips and Tricks](kubernetes-1/tips-and-tricks.md)
 
 ## Language
