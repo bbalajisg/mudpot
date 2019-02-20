@@ -59,6 +59,7 @@
 ## Interview Questions
 
 * [DevOps](interview-questions/devops.md)
+* [Git](interview-questions/git.md)
 
 ## script
 
