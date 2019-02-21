@@ -60,6 +60,7 @@
 
 * [DevOps](interview-questions/devops.md)
 * [Git](interview-questions/git.md)
+* [JWT](interview-questions/jwt.md)
 
 ## script
 
