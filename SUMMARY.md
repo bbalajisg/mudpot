@@ -2,6 +2,11 @@
 
 * [Flying Shuttle](README.md)
 
+## Provision
+
+* [Terraform](provision/terraform.md)
+* [Packer](provision/packer.md)
+
 ## Kubernetes
 
 * [Overview](kubernetes-1/overview.md)
