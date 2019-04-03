@@ -4,7 +4,8 @@
 
 ## Provision
 
-* [Terraform](provision/terraform.md)
+* [Terraform](provision/terraform/README.md)
+  * [variables](provision/terraform/variables.md)
 * [Packer](provision/packer.md)
 
 ## Kubernetes
