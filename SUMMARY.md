@@ -5,6 +5,7 @@
 ## Provision
 
 * [Terraform](provision/terraform/README.md)
+  * [Warnings](provision/terraform/warnings.md)
   * [variables](provision/terraform/variables.md)
 * [Packer](provision/packer.md)
 
