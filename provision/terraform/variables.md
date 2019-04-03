@@ -11,7 +11,7 @@ description: Multiple ways to assign variables
 ./terraform apply -var instance_type=“t2.micro”
 ```
 
-2. From a file: Create a file named terraform.tfvars and assign variables within this file.
+2. From a file: Create a file named **terraform.tfvars** and assign variables within this file.
 
 ```text
 instance_type=“t2.micro”
