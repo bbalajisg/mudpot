@@ -47,6 +47,7 @@
 ## Operating System
 
 * [Linux](operating-system/linux.md)
+* [Tips](operating-system/tips.md)
 * [Mac](operating-system/mac.md)
 
 ## Security
