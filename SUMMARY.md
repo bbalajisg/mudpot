@@ -7,7 +7,8 @@
 * [Terraform](provision/terraform/README.md)
   * [Warnings](provision/terraform/warnings.md)
   * [variables](provision/terraform/variables.md)
-  * [State Management](provision/terraform/untitled.md)
+  * [State Management](provision/terraform/untitled/README.md)
+    * [Tips and Tricks](provision/terraform/untitled/tips-and-tricks.md)
 * [Packer](provision/packer.md)
 
 ## Kubernetes
