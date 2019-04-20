@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Flying Shuttle](README.md)
+* [Networking](networking/README.md)
+  * [Public and Private IP address Range](networking/public-and-private-ip-address-classes.md)
 
 ## Provision
 
