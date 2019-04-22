@@ -82,7 +82,7 @@
 
 ## Notes
 
-* [Leaning Area](notes/leaning-area.md)
+* [Learning Area](notes/leaning-area.md)
 * [Rough Sheet](notes/rough-paper.md)
 * [Useful Pages/Links](notes/userful-pages-links.md)
 

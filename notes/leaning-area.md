@@ -1,4 +1,4 @@
-# Leaning Area
+# Learning Area
 
 ## Docker installation on Ubuntu
 
