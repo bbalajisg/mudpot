@@ -26,5 +26,9 @@ curl -fsSl [https://download.docker.com/linux/ubuntu/gpg](https://download.docke
 
 
 
-[https://aws.amazon.com/about-aws/whats-new/2018/05/aws-codecommit-supports-branch-level-permissions/](https://aws.amazon.com/about-aws/whats-new/2018/05/aws-codecommit-supports-branch-level-permissions/)
+{% embed url="https://aws.amazon.com/about-aws/whats-new/2018/05/aws-codecommit-supports-branch-level-permissions/" %}
+
+{% embed url="https://docs.aws.amazon.com/codecommit/latest/userguide/how-to-conditional-branch.html" %}
+
+
 
