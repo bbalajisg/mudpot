@@ -52,7 +52,8 @@
 
 * [Linux](operating-system/linux.md)
 * [Tips](operating-system/tips.md)
-* [Mac](operating-system/mac.md)
+* [Mac](operating-system/mac/README.md)
+  * [PPK to PEM](operating-system/mac/ppk-to-pem.md)
 
 ## Security
 
