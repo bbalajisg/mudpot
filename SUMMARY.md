@@ -50,7 +50,8 @@
 
 ## Operating System
 
-* [Linux](operating-system/linux.md)
+* [Linux](operating-system/linux/README.md)
+  * [Java](operating-system/linux/java.md)
 * [Tips](operating-system/tips.md)
 * [Mac](operating-system/mac/README.md)
   * [PPK to PEM](operating-system/mac/ppk-to-pem.md)
