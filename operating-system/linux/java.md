@@ -12,5 +12,9 @@ $ sudo update-alternatives --config java There are 2 choices for the alternative
 
 Press enter to keep the current choice\[\*\], or type selection number:
 
-[https://www.oodlestechnologies.com/blogs/Managing-Multiple-version-of-JDK-on-Ubuntu](https://www.oodlestechnologies.com/blogs/Managing-Multiple-version-of-JDK-on-Ubuntu)
+{% embed url="https://www.oodlestechnologies.com/blogs/Managing-Multiple-version-of-JDK-on-Ubuntu" %}
+
+{% embed url="https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-on-ubuntu-18-04" %}
+
+
 
