@@ -12,3 +12,5 @@ $ sudo update-alternatives --config java There are 2 choices for the alternative
 
 Press enter to keep the current choice\[\*\], or type selection number:
 
+[https://www.oodlestechnologies.com/blogs/Managing-Multiple-version-of-JDK-on-Ubuntu](https://www.oodlestechnologies.com/blogs/Managing-Multiple-version-of-JDK-on-Ubuntu)
+
