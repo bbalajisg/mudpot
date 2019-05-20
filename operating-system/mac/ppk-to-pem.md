@@ -14,6 +14,10 @@ Done easily with [homebrew](http://brew.sh/).
 
 We will use [puttygen](http://linux.die.net/man/1/puttygen) to generate the key.
 
+```text
+$ puttygen key.ppk -O private-openssh -o key.pem
+```
+
 * `key.ppk`: the original file name/path.
 * `-O private-openssh`: the output type. `private-openssh` is used to save an SSH-2 private key in OpenSSH’s format.
 * `-o key.pem`: the output file name/path.
