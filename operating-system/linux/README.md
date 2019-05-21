@@ -32,6 +32,12 @@ and if you need to put the output into a different directory \(in this example, 
 find . -type f -print | while read fname ; do
     mkdir -p "../target/`dirname \"$fname\"`"
     gzip -c "$fname" > "../target/$fname.gz"
-done
+done                                
+```
+
+### Remove files older than 30 days
+
+```bash
+find /path/To/File -type f -name '*.bb' -mtime +30 -exec rm {} \;
 ```
 
