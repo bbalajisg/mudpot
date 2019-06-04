@@ -80,6 +80,9 @@
 
 * [Shell](scripts/shell.md)
 * [Python](scripts/python.md)
+* [AWS](scripts/aws/README.md)
+  * [Fabric](scripts/aws/fabric.md)
+  * [Boto3](scripts/aws/boto3.md)
 * [Groovy](scripts/groovy.md)
 
 ## Notes
