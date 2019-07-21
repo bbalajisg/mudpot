@@ -38,6 +38,12 @@ done
 ### Remove files older than 30 days
 
 ```bash
-find /path/To/File -type f -name '*.bb' -mtime +30 -exec rm {} \;
+find /path/To/File -type f -name '*.bb' -mtime +    
+
+30 -exec rm {} \;
 ```
+
+
+
+netstat -nap \| grep ESTA
 
