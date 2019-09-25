@@ -6,5 +6,7 @@
 
 {% file src="../.gitbook/assets/cncf\_trailmap\_latest.png" caption="CNCF Latest PDF" %}
 
-[https://www.divio.com/blog/documentation](https://www.divio.com/blog/documentation/)
+{% embed url="https://www.divio.com/blog/documentation" %}
+
+[https://likegeeks.com/](https://likegeeks.com/)
 
