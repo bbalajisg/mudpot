@@ -51,6 +51,7 @@
 ## Operating System
 
 * [Linux](operating-system/linux/README.md)
+  * [find](operating-system/linux/find.md)
   * [Java](operating-system/linux/java.md)
 * [Tips](operating-system/tips.md)
 * [Mac](operating-system/mac/README.md)
