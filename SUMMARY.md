@@ -51,6 +51,7 @@
 ## Operating System
 
 * [Linux](operating-system/linux/README.md)
+  * [Install security patch](operating-system/linux/install-security-patch.md)
   * [find](operating-system/linux/find.md)
   * [Java](operating-system/linux/java.md)
 * [Tips](operating-system/tips.md)
