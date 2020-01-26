@@ -51,6 +51,7 @@
 ## Operating System
 
 * [Linux](operating-system/linux/README.md)
+  * [cURL Command](operating-system/linux/curl-command.md)
   * [Install security patch](operating-system/linux/install-security-patch.md)
   * [find](operating-system/linux/find.md)
   * [Java](operating-system/linux/java.md)
