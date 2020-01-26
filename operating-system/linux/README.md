@@ -38,9 +38,9 @@ done
 ### Remove files older than 30 days
 
 ```bash
-find /path/To/File -type f -name '*.bb' -mtime +    
+find /path/To/File -type f -name '*.bb' -mtime + 30 -exec 
 
-30 -exec rm {} \;
+ rm {} \;
 ```
 
 
