@@ -62,6 +62,7 @@
 ## Security
 
 * [SSL](security/ssl/README.md)
+  * [SSL Connectivity test](security/ssl/ssl-connectivity-test.md)
   * [Certificate verification](security/ssl/certificate-verification.md)
   * [Unable to connect to SSL services](security/ssl/unable-to-connect-to-ssl-services.md)
 
