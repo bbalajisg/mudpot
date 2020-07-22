@@ -62,6 +62,7 @@
 ## Security
 
 * [SSL](security/ssl/README.md)
+  * [Certificate verification](security/ssl/certificate-verification.md)
   * [Unable to connect to SSL services](security/ssl/unable-to-connect-to-ssl-services.md)
 
 ## Container
