@@ -79,7 +79,8 @@
 ## Interview Questions
 
 * [DevOps](interview-questions/devops.md)
-* [Git](interview-questions/git.md)
+* [Git](interview-questions/git/README.md)
+  * [delete\_branches\_older\_than.sh](interview-questions/git/delete_branches_older_than.sh.md)
 * [JWT](interview-questions/jwt.md)
 
 ## script <a id="scripts"></a>
