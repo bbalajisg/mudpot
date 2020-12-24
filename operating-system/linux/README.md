@@ -71,3 +71,9 @@ Once you have disconnected the VPN, you will have to revert the changes to `/etc
 
 sudo groupadd -r -g 5086 NPN01 && sudo useradd -r -m -d /app/dcbreport/reports/NPN01 -s /bin/false -u 5086 -g 5086 NPN01
 
+
+
+
+
+
+
