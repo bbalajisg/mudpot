@@ -11,8 +11,8 @@ Issue
 * [ ] Issue will be because of IAM policy not attached to worker node
 
 {% hint style="info" %}
- 
+ for ns in $\(kubectl get ns --field-selector status.phase=Terminating -o jsonpath='{.items\[\*\].metadata.name}'\); do kubectl get ns $ns -ojson \| jq '.spec.finalizers = \[\]' \| kubectl replace --raw "/api/v1/namespaces/$ns/finalize" -f -; done
 {% endhint %}
 
-
+But deleting stuck namespaces is not a good solution. Right way is to find out why it's stuck. Very common reason is there's an unavailable API service\(s\) which prevents cluster from finalizing namespace
 
