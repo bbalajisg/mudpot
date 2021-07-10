@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Flying Shuttle](README.md)
+* [Advanced Deployment Strategies](advanced-deployment-strategies.md)
 * [Networking](networking/README.md)
   * [Public and Private IP address Range](networking/public-and-private-ip-address-classes.md)
 
