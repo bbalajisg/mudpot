@@ -4,5 +4,3 @@
 
 {% embed url="https://blog.gruntwork.io/" %}
 
-
-

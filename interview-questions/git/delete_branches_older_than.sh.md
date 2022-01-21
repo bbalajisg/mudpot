@@ -2,7 +2,7 @@
 
 
 
-```text
+```
 #!/bin/sh
 
 ECHO='echo '
@@ -17,4 +17,3 @@ for branch in $(git branch -a | sed 's/^\s*//' | sed 's/^remotes\///' | grep -v 
   fi
 done
 ```
-

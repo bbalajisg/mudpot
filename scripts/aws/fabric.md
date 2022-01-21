@@ -1,6 +1,6 @@
 # Fabric
 
-```text
+```
 from fabric.api import env, run, roles, task, execute
 
 def init_env():
@@ -42,4 +42,3 @@ execute(update_code)
 # execute(validate_service)
 # execute(warmup_service)
 ```
-

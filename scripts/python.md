@@ -4,7 +4,7 @@
 
 I'm currently embedding these two functions in every script. It would be nice if they made it into `boto3.utils`, to confine the boilerplate to an import:
 
-```text
+```
 def t2d(tags):
     """Convert a tag list to a dictionary.
 
@@ -36,9 +36,9 @@ def d2t(tag_dict=None, **kwargs):
 
 
 
-##  
+## &#x20;
 
-```text
+```
         
 
   #for tags in instance_tags['TagList']:
@@ -85,9 +85,7 @@ def d2t(tag_dict=None, **kwargs):
 
 ```
 
-## 
-
-
+##
 
 
 

@@ -2,7 +2,7 @@
 
 ## Dynamic array
 
-```text
+```
    
 paths2exclude=()
 paths2exclude+=( "-exclude server/tests" )
@@ -14,7 +14,7 @@ echo "${paths2exclude[*]}"
 
 
 
-```text
+```
 
 if [ -z "$4" ]
 then
@@ -29,4 +29,3 @@ fi
 
 echo $exclude_dir
 ```
-

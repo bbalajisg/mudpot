@@ -16,13 +16,11 @@ Controls each worker node, providing the API's that are used by the control pane
 
 ## Kube-proxy
 
- Manage iptables rules on the node to provide virtual network access to pods.
+&#x20;Manage iptables rules on the node to provide virtual network access to pods.
 
 ## Container runtime
 
 Download the images and runs container. Ex., Docker and containerd
-
-
 
 
 

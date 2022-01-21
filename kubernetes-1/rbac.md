@@ -48,7 +48,7 @@ EOF
 
 Bind the role to the kubernetes user:'
 
-```text
+```
 name: kubernetes
 ```
 
@@ -69,4 +69,3 @@ subjects:
     name: kubernetes
 EOF
 ```
-

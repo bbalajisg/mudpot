@@ -10,15 +10,14 @@
 
 ### Find user creation date on linux
 
-```text
+```
 $  { USER_DIREC=$(ls -l /home | grep ^d | awk '{print $9}'); for value in $USER_DIREC; do sudo passwd -S $value | awk '{print $1"   "$3}'; done; }
 ```
 
 #### Output
 
-```text
+```
 balaji   01/02/2020
 chaitanya   04/21/2020
 jimmy   01/02/2020
 ```
-

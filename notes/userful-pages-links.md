@@ -4,9 +4,10 @@
 
 {% embed url="https://dzone.com/users/2918001/piotrminkowski.html" %}
 
-{% file src="../.gitbook/assets/cncf\_trailmap\_latest.png" caption="CNCF Latest PDF" %}
+{% file src="../.gitbook/assets/CNCF_TrailMap_latest.png" %}
+CNCF Latest PDF
+{% endfile %}
 
 {% embed url="https://www.divio.com/blog/documentation" %}
 
-[https://likegeeks.com/](https://likegeeks.com/)
-
+[https://likegeeks.com/](https://likegeeks.com)

@@ -10,4 +10,3 @@ JWT is a useful standard because it sends information that can be verified and t
 * Information Exchange
 
 Idea for authentication and information exchange because of their size and the fact they can be signed.
-

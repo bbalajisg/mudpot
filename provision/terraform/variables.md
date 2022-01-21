@@ -4,22 +4,21 @@ description: Multiple ways to assign variables
 
 # variables
 
-  
-1. Command-line flags: Variables can be set directly on the command-line with the -var flag.
+\
+1\. Command-line flags: Variables can be set directly on the command-line with the -var flag.
 
-```text
+```
 ./terraform apply -var instance_type=“t2.micro”
 ```
 
-2. From a file: Create a file named **terraform.tfvars** and assign variables within this file.
+2\. From a file: Create a file named **terraform.tfvars** and assign variables within this file.
 
-```text
+```
 instance_type=“t2.micro”
 ```
 
-3. From environment variables: Variables can be read environment params in the form of TF\_VAR\_name to find the value.
+3\. From environment variables: Variables can be read environment params in the form of TF\_VAR\_name to find the value.
 
-```text
+```
 TF_VAR_instance_type=t2.micro
 ```
-
