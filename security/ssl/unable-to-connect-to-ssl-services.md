@@ -37,7 +37,7 @@ Try the Java class `SSLPoke` to see if your truststore contains the right certif
     $JAVA_HOME/bin/java SSLPoke jira.example.com 443
     ```
 
-    A mail server may be [`mail.example.com`](http://mail.example.com) `465` .
+    A mail server may be [`mail.example.com`](http://mail.example.com/) `465` .
 
 
 
@@ -77,7 +77,7 @@ $JAVA_HOME/bin/java SSLPoke jira.example.com 443
 Successfully connected
 ```
 
-If `-`[`Djavax.net`](http://djavax.net)`.ssl.trustStore` is present in your JVM arguments, Java will use the keystore specified with that argument. You can verify whether the `-`[`Djavax.net`](http://djavax.net)`.ssl.trustStore`parameter is causing problems by running the `SSLPoke` test and specifying the same JVM argument to use that keystore. For example:
+If `-`[`Djavax.net`](http://djavax.net/)`.ssl.trustStore` is present in your JVM arguments, Java will use the keystore specified with that argument. You can verify whether the `-`[`Djavax.net`](http://djavax.net/)`.ssl.trustStore`parameter is causing problems by running the `SSLPoke` test and specifying the same JVM argument to use that keystore. For example:
 
 ```
 $JAVA_HOME/bin/java -Djavax.net.ssl.trustStore=/my/custom/truststore SSLPoke jira.example.com 443
@@ -87,11 +87,11 @@ If this fails (confirming the problem that the truststore doesn't contain the ap
 
 ### Cause <a href="#unabletoconnecttosslservicesdueto-pkixpathbuildingfailed-error-cause" id="unabletoconnecttosslservicesdueto-pkixpathbuildingfailed-error-cause"></a>
 
-Whenever Java attempts to connect to another application over SSL (e.g.: HTTPS, IMAPS, LDAPS), it will _only_ be able to connect to that application if it can trust it. The way trust is handled in the Java world is that you have a keystore (typically `$JAVA_HOME/lib/security/cacerts`), also known as the truststore. This contains a list of all known Certificate Authority (CA) certificates, and Java will only trust certificates that are signed by one of those CAs or public certificates that exist within that keystore. For example, if we look at the certificate for Atlassian, we can see that the **\*.atlassian.com** certificate has been signed by the intermediate certificates, **DigiCert High Assurance EV Root CA** and **DigiCert High Assurance CA-3**. These intermediate certificates have been signed by the root  ****  [**Entrust.net**](http://entrust.net) **Secure Server CA** :
+Whenever Java attempts to connect to another application over SSL (e.g.: HTTPS, IMAPS, LDAPS), it will _only_ be able to connect to that application if it can trust it. The way trust is handled in the Java world is that you have a keystore (typically `$JAVA_HOME/lib/security/cacerts`), also known as the truststore. This contains a list of all known Certificate Authority (CA) certificates, and Java will only trust certificates that are signed by one of those CAs or public certificates that exist within that keystore. For example, if we look at the certificate for Atlassian, we can see that the **\*.atlassian.com** certificate has been signed by the intermediate certificates, **DigiCert High Assurance EV Root CA** and **DigiCert High Assurance CA-3**. These intermediate certificates have been signed by the root  ****  [**Entrust.net**](http://entrust.net/) **Secure Server CA** :
 
 ![](https://confluence.atlassian.com/jira/files/117455/359498025/1/1369371745446/Certificates.png)
 
-These three certificates combined are referred to as the certificate chain, and, as they are all within the Java keystore (`cacerts`), Java will trust any certificates signed by them (in this case, **\*.atlassian.com**). Alternatively, if the **\*.**[ **atlassian.com** ](http://atlassian.com) certificate had been in the keystore, Java would also trust that site.
+These three certificates combined are referred to as the certificate chain, and, as they are all within the Java keystore (`cacerts`), Java will trust any certificates signed by them (in this case, **\*.atlassian.com**). Alternatively, if the **\*.**[ **atlassian.com** ](http://atlassian.com/) certificate had been in the keystore, Java would also trust that site.
 
 This problem is therefore caused by a certificate that is self-signed (a CA did not sign it) or a certificate chain that does not exist within the Java truststore. Java does not trust the certificate and fails to connect to the application.
 
@@ -99,7 +99,7 @@ This problem is therefore caused by a certificate that is self-signed (a CA did 
 
 1. Make sure you have imported the public certificate of the target instance into the truststore according to the [Connecting to SSL Services](https://confluence.atlassian.com/kb/connecting-to-ssl-services-802171215.html) instructions.
 2. Make sure any certificates have been imported into the correct truststore; you may have multiple JRE/JDKs. See [Installing Java](https://confluence.atlassian.com/jira/installing-java-185729673.html) for this.
-3. Check to see that the correct truststore is in use. If `-`[`Djavax.net`](http://djavax.net)`.ssl.trustStore` has been configured, it will override the location of the default truststore, which will need to be checked.
+3. Check to see that the correct truststore is in use. If `-`[`Djavax.net`](http://djavax.net/)`.ssl.trustStore` has been configured, it will override the location of the default truststore, which will need to be checked.
 4. Check if your Anti Virus tool has "SSL Scanning" blocking SSL/TLS. If it does, disable this feature or set exceptions for the target addresses (check the product documentation to see if this is possible.)
 5. If connecting to a mail server, such as Exchange, ensure authentication allows plain text.
 6. Verify that the target server is configured to serve SSL correctly. This can be done with the [SSL Server Test](https://www.ssllabs.com/ssltest/) tool.

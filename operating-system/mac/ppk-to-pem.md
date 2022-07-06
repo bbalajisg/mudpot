@@ -8,7 +8,7 @@ This article will show you how to generate a `.pem` file from an existing `.ppk`
 
 #### Step 1 : Install putty on your mac <a href="#1-install-putty-on-your-mac" id="1-install-putty-on-your-mac"></a>
 
-Done easily with [homebrew](http://brew.sh).
+Done easily with [homebrew](http://brew.sh/).
 
 #### Step 2 : Generate the key <a href="#2-generate-the-key" id="2-generate-the-key"></a>
 

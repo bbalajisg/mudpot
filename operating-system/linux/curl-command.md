@@ -536,7 +536,7 @@ $ file FILENAME.pdf
 
 **45. Transfer Large Files with Transfer.sh**
 
-[Transfer.sh](https://transfer.sh) is a simple but effective file sharing facility for the terminal. It allows users to upload files up-to 10G and encrypt them if required. The uploaded files will be available for a period of 10 days. First, create a simple text file called test.txt and then run the below command.
+[Transfer.sh](https://transfer.sh/) is a simple but effective file sharing facility for the terminal. It allows users to upload files up-to 10G and encrypt them if required. The uploaded files will be available for a period of 10 days. First, create a simple text file called test.txt and then run the below command.
 
 ```
 $ cat test.txt|gpg -ac -o-|curl -X PUT --upload-file "-" https://transfer.sh/test.txt

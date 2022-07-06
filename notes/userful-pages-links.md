@@ -10,4 +10,4 @@ CNCF Latest PDF
 
 {% embed url="https://www.divio.com/blog/documentation" %}
 
-[https://likegeeks.com/](https://likegeeks.com)
+[https://likegeeks.com/](https://likegeeks.com/)
