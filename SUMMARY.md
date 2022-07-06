@@ -58,6 +58,7 @@
   * [Install security patch](operating-system/linux/install-security-patch.md)
   * [find](operating-system/linux/find.md)
   * [Java](operating-system/linux/java.md)
+  * [PGP/ GPG Encryption Decryption](operating-system/linux/pgp-gpg-encryption-decryption.md)
 * [Tips](operating-system/tips.md)
 * [Mac](operating-system/mac/README.md)
   * [PPK to PEM](operating-system/mac/ppk-to-pem.md)
