@@ -108,6 +108,7 @@
 * [Learning Area](notes/leaning-area.md)
 * [Rough Sheet](notes/rough-paper.md)
 * [Useful Pages/Links](notes/userful-pages-links.md)
+* [Automating Version Tags and Changelogs for your Python Projects](notes/automating-version-tags-and-changelogs-for-your-python-projects.md)
 
 ## Web Server
 
