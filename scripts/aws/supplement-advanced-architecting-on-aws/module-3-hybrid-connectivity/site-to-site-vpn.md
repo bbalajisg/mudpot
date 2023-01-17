@@ -1,4 +1,4 @@
-# SITE-To-SITE VPN
+# SITE-TO-SITE VPN
 
 * [AWS Site-to-Site VPN Now Supports IPv6 Traffic](https://aws.amazon.com/about-aws/whats-new/2020/08/aws-site-to-site-vpn-supports-ipv6-traffic/)
 * [AWS Site-to-Site VPN Now Supports Health Notifications](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-site-to-site-vpn-now-supports-health-notifications/)

@@ -100,7 +100,7 @@
       * [AWS CONTROL TOWER](scripts/aws/supplement-advanced-architecting-on-aws/module-2-single-to-multiple-accounts/aws-control-tower.md)
     * [Module 3: Hybrid Connectivity](scripts/aws/supplement-advanced-architecting-on-aws/module-3-hybrid-connectivity/README.md)
       * [CLIENT VPN](scripts/aws/supplement-advanced-architecting-on-aws/module-3-hybrid-connectivity/client-vpn.md)
-      * [SITE-To-SITE VPN](scripts/aws/supplement-advanced-architecting-on-aws/module-3-hybrid-connectivity/site-to-site-vpn.md)
+      * [SITE-TO-SITE VPN](scripts/aws/supplement-advanced-architecting-on-aws/module-3-hybrid-connectivity/site-to-site-vpn.md)
       * [DIRECT CONNECT](scripts/aws/supplement-advanced-architecting-on-aws/module-3-hybrid-connectivity/direct-connect.md)
       * [ROUTER 53 RESOLVER](scripts/aws/supplement-advanced-architecting-on-aws/module-3-hybrid-connectivity/router-53-resolver.md)
     * [Module 5: Connecting Networks](scripts/aws/supplement-advanced-architecting-on-aws/module-5-connecting-networks/README.md)
