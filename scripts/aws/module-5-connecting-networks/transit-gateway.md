@@ -11,3 +11,5 @@
 * [New – VPC Reachability Analyzer](https://aws.amazon.com/blogs/aws/new-vpc-insights-analyzes-reachability-and-visibility-in-vpcs/?nc1=b\_rp)
 
 {% embed url="https://youtu.be/tkaMmFoWwaA" %}
+
+<img src="../../../.gitbook/assets/balab 2023-01-17 at 11.20.24@2x.jpg" alt="" data-size="original">
