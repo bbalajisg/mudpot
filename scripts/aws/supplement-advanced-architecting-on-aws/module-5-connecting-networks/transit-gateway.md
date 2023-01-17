@@ -12,4 +12,4 @@
 
 {% embed url="https://youtu.be/tkaMmFoWwaA" %}
 
-<img src="../../../.gitbook/assets/balab 2023-01-17 at 11.20.24@2x.jpg" alt="" data-size="original">
+<img src="../../../../.gitbook/assets/balab 2023-01-17 at 11.20.24@2x.jpg" alt="" data-size="original">
