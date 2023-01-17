@@ -6,3 +6,4 @@
 
 {% embed url="https://youtu.be/Vtymod0nPBo" %}
 
+![](<../../../../.gitbook/assets/balab 2023-01-17 at 15.35.25@2x.jpg>)
