@@ -66,6 +66,7 @@
 ## Security
 
 * [SSL](security/ssl/README.md)
+  * [OPENSSL: HOW TO EXTRACT ROOT AND INTERMEDIATE CERTIFICATES FROM CLIENT CERTIFICATE](security/ssl/openssl-how-to-extract-root-and-intermediate-certificates-from-client-certificate.md)
   * [SSL Connectivity test](security/ssl/ssl-connectivity-test.md)
   * [Certificate verification](security/ssl/certificate-verification.md)
   * [Unable to connect to SSL services](security/ssl/unable-to-connect-to-ssl-services.md)
