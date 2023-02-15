@@ -81,12 +81,21 @@
 
 * [Overview](openshift/overview.md)
 
+***
+
+* [Infrastructure](infrastructure/README.md)
+  * [AWS](infrastructure/aws/README.md)
+    * [Untitled](infrastructure/aws/untitled.md)
+    * [AWS Migration](infrastructure/aws/aws-migration.md)
+  * [Google](infrastructure/google.md)
+
 ## Interview Questions
 
 * [DevOps](interview-questions/devops.md)
 * [Git](interview-questions/git/README.md)
   * [delete\_branches\_older\_than.sh](interview-questions/git/delete\_branches\_older\_than.sh.md)
 * [JWT](interview-questions/jwt.md)
+* [Page 1](interview-questions/page-1.md)
 
 ## script <a href="#scripts" id="scripts"></a>
 
