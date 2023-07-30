@@ -152,4 +152,5 @@
 
 ***
 
+* [Trading](trading.md)
 * [Resume](resume.md)
