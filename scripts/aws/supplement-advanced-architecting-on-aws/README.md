@@ -10,4 +10,7 @@ from Kyle Matthew Chua to Everyone:    5:15  PM
 
 from Kyle Matthew Chua to Everyone:    5:15  PM
 
-[https://aws.amazon.com/blogs/networking-and-content-delivery/automating-connectivity-assessments-with-vpc-reachability-analyzer/](https://aws.amazon.com/blogs/networking-and-content-delivery/automating-connectivity-assessments-with-vpc-reachability-analyzer/)
+{% embed url="https://aws.amazon.com/blogs/networking-and-content-delivery/automating-connectivity-assessments-with-vpc-reachability-analyzer/" %}
+
+[https://aws.plainenglish.io/recover-access-to-ec2-linux-instance-after-losing-keypair-0d8b4a2993bf](https://aws.plainenglish.io/recover-access-to-ec2-linux-instance-after-losing-keypair-0d8b4a2993bf)&#x20;
+
