@@ -59,6 +59,7 @@
   * [find](operating-system/linux/find.md)
   * [Java](operating-system/linux/java.md)
   * [PGP/ GPG Encryption Decryption](operating-system/linux/pgp-gpg-encryption-decryption.md)
+* [Kali Linux](operating-system/kali-linux.md)
 * [Tips](operating-system/tips.md)
 * [Mac](operating-system/mac/README.md)
   * [PPK to PEM](operating-system/mac/ppk-to-pem.md)
