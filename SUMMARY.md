@@ -62,6 +62,7 @@
 * [Kali Linux](operating-system/kali-linux.md)
 * [Tips](operating-system/tips.md)
 * [Mac](operating-system/mac/README.md)
+  * [Page](operating-system/mac/page.md)
   * [PPK to PEM](operating-system/mac/ppk-to-pem.md)
 
 ## Security
@@ -94,7 +95,7 @@
 
 * [DevOps](interview-questions/devops.md)
 * [Git](interview-questions/git/README.md)
-  * [delete\_branches\_older\_than.sh](interview-questions/git/delete\_branches\_older\_than.sh.md)
+  * [delete\_branches\_older\_than.sh](interview-questions/git/delete_branches_older_than.sh.md)
 * [JWT](interview-questions/jwt.md)
 * [Page 1](interview-questions/page-1.md)
 
