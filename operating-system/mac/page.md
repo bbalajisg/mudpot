@@ -1,4 +1,4 @@
-# Page
+# Mac Environment setup
 
 Environment setup
 
@@ -15,6 +15,14 @@ brew install zsh-autocomplete
 brew install zsh-autosuggestions
 brew install fd
 brew install base64
+brew install wget
+brew install gnupg
+brew install firefox
+brew install tfenv
+brew install bat
+brew install exa
+brew install gnu-getopt
+brew install jq
 ```
 
 

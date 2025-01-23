@@ -62,7 +62,7 @@
 * [Kali Linux](operating-system/kali-linux.md)
 * [Tips](operating-system/tips.md)
 * [Mac](operating-system/mac/README.md)
-  * [Mac Environment setup](operating-system/mac/mac-environment-setup.md)
+  * [Mac Environment setup](operating-system/mac/page.md)
   * [PPK to PEM](operating-system/mac/ppk-to-pem.md)
 
 ## Security
