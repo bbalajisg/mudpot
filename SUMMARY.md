@@ -53,6 +53,7 @@
 
 * [Linux](operating-system/linux/README.md)
   * [Shell Scripts on Codebuild](operating-system/linux/shell-scripts-on-codebuild.md)
+  * [zed](operating-system/linux/zed.md)
   * [Bash](operating-system/linux/bash.md)
   * [cURL Command](operating-system/linux/curl-command.md)
   * [Install security patch](operating-system/linux/install-security-patch.md)
