@@ -1,3 +1,7 @@
+---
+description: 9b388c2e70105762b5b8a0deb4f30677
+---
+
 # Tips
 
 Split a large text file in Windows&#x20;
